@@ -23,7 +23,7 @@ Aucune installation npm ou serveur n'est requise.
 
 Cloner le dépôt :
 
-git clone [https://github.com/ton-username/test-technique-antoine.git](https://github.com/ton-username/test-technique-antoine.git)
+git clone [https://github.com/Anfrejkvlv/test-projetantoine.git](https://github.com/Anfrejkvlv/test-projetantoine.git)
 
 
 Ouvrez le fichier index.html dans n'importe quel navigateur web moderne.
